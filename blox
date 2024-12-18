@@ -1,0 +1,5 @@
+while true do
+  print("4 line crash lmao")
+  print("Hah get crashed")
+  print("ts looks like a bitcoin miner")
+end
