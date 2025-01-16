@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
 	Title = "Get Logged", -- Required
 	Text = "You've been logged for exploting... Good luck escaping this ban", -- Required
-	Icon = "rbxassetid://125886055374402" -- Optional
+	Icon = "rbxassetid://104246689101220" -- Optional
 })
